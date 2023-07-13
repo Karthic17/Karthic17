@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Karthic17
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail - karthicsubramanian1563@gmail.com
 - Instagram - https://www.instagram.com/__karthic__/
 <!---
